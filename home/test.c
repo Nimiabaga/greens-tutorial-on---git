@@ -1,0 +1,2 @@
+!/bash
+include test.c 
